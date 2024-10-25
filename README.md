@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # api-crud-2
 
 User Management CRUD API
@@ -33,3 +34,7 @@ To create a user, send a POST request to /users with the following body:
 	"birthday": "1990-01-01"
 }
 ```
+=======
+
+# entregable-2-crud
+>>>>>>> 745c34b79399de9b8983d68a41f4d6de13a9fe69
